@@ -58,6 +58,11 @@ fine).
 - Use the bench scraper or a knife to cut the log into 12 pieces, approximately 2 inches (5cm) long.
 - Arrange the pieces in the baking vessel so the "swirls" are upright, leaving space in between each piece so they can expand while baking.
 
+::: callout
+You may freeze the rolls after they are cut out and placed in a pan and bake directly.
+Be careful if your baking vessel is glass! You may instead want to place into a metal baking vessel before freezing.
+:::
+
 **Bake:**
 
 - Bake the cinnamon rolls for 35-40 minutes or until the tops show a nice golden-brown color.
