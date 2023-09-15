@@ -63,6 +63,6 @@ fine).
 - Bake the cinnamon rolls for 35-40 minutes or until the tops show a nice golden-brown color.
 - Remove from the oven and drizzle glaze over the rolls while they are still hot.
 
-![](fig/cinnamon-rolls-in-the-oven.jpg){alt='A bunch of cinnamon rolls in a baking tray in an oven.'}
+![](fig/cinnamon-rolls-in-the-oven.jpg){alt='A bunch of **uncooked** cinnamon rolls in a baking tray in an oven.'}
 A batch of cinnamon rolls partway through baking, wafting a very tempting aroma throughout the kitchen.
 
