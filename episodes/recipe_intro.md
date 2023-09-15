@@ -21,4 +21,7 @@ We will be describing [Little Spoon Farm's](https://littlespoonsfarm.com/) delic
 
 ![](fig/cinnamon-rolls-out-of-the-oven.jpg){alt='A bunch of baked cinnamon rolls in a baking tray.'}
 
-
+::: callout
+WARNING FOR GLUTEN SENSITIVE INDIVIDUALS:
+Note that this recipe uses wheat flour. Make sure to research alternatives to wheat flour for your own cinnamon rolls.
+:::
