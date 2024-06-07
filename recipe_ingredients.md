@@ -153,3 +153,8 @@ main_ingredients
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::: keypoints
+- Prepare your ingredients carefully in advance
+- You will need to make adjustments if you are using active sourdough started instead of discard
+:::::
